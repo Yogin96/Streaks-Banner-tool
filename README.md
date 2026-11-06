@@ -1,6 +1,6 @@
-# Streaks Banner Generator
+# Streaks-Banner-tool
 
-Single-file tool for generating Streaks.vip's banners: the 3:4 game card, the main top banner, and the inner banner. No build step, no install — open `index.html` in any browser.
+Custom tool built for a casino website (Streaks.vip) to generate its banners in bulk: the 3:4 game card, the main top banner, and the inner banner. Single-file, no build step, no install — open `index.html` in any browser.
 
 ## Use
 
